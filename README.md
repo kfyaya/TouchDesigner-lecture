@@ -1,6 +1,7 @@
 # TouchDesigner-lecture
 
 This is a collection of examples in my course Interactive Programming at Tongji University. 
+[More work about my teaching and research](https://kfyaya.github.io/YZhu/)
 
 Student projects:
 * [2018 student works in Shanghai Spring International Music Festival](https://mp.weixin.qq.com/s/vcA09qC7PdqaqlnhkXyuGQ)
